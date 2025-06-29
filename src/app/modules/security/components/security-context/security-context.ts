@@ -10,6 +10,7 @@ import {SecurityHeader} from '../security-header/security-header';
     SecurityFooter,
     SecurityHeader
   ],
+  standalone:true,
   templateUrl: './security-context.html',
   styleUrl: './security-context.scss'
 })

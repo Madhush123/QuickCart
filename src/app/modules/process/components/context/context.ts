@@ -10,6 +10,7 @@ import {Footer} from '../footer/footer';
     Header,
     Footer
   ],
+  standalone:true,
   templateUrl: './context.html',
   styleUrl: './context.scss'
 })
